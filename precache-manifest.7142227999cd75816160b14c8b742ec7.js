@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bf47d73d180132d44628d3203f7a0d0",
+    "revision": "32f157c14403fa92076a934b3fcf63c0",
     "url": "/index.html"
   },
   {
-    "revision": "89a1ae493fe112572b1e",
+    "revision": "f4f1659ad38b2a953331",
     "url": "/static/css/main.aeb1bd35.chunk.css"
   },
   {
-    "revision": "9ac414b6236a1edd01be",
-    "url": "/static/js/2.6cea04e7.chunk.js"
+    "revision": "f950759842ee470e8a23",
+    "url": "/static/js/2.9996b85f.chunk.js"
   },
   {
-    "revision": "89a1ae493fe112572b1e",
-    "url": "/static/js/main.471ff364.chunk.js"
+    "revision": "f4f1659ad38b2a953331",
+    "url": "/static/js/main.438bea33.chunk.js"
   },
   {
     "revision": "f224fb24a8b55c14f9e1",
@@ -56,8 +56,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "a2237b06d0a23892617484fde76fcc4f",
+    "url": "/static/media/SAPCPICERT.a2237b06.png"
+  },
+  {
+    "revision": "6b43c7e86aa0d02dec930950887219b2",
+    "url": "/static/media/SAPPOCERT.6b43c7e8.png"
+  },
+  {
     "revision": "68baa4fa278569769f50d8e14defe2e5",
     "url": "/static/media/UU_LOGO.68baa4fa.png"
+  },
+  {
+    "revision": "148372f483017cedd9713ac315a5fa96",
+    "url": "/static/media/accenture_square.148372f4.png"
   },
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
@@ -196,6 +208,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ibm_logo.6d325fec.png"
   },
   {
+    "revision": "48c6088e63c754fe9c1870d2596b7ab4",
+    "url": "/static/media/ibm_logo2.48c6088e.png"
+  },
+  {
     "revision": "c350d7996596e9909fe72c0938cc9ee5",
     "url": "/static/media/iiitk_logo.c350d799.png"
   },
@@ -214,6 +230,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "e7a2179b05039c6b8b911d1079a437f8",
+    "url": "/static/media/mastech.e7a2179b.png"
   },
   {
     "revision": "db6c1c0dddd4c868e00a3cffa1078e49",
@@ -254,5 +274,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
     "url": "/static/media/ui_ux_design.67a6a11c.svg"
+  },
+  {
+    "revision": "90724b868326a3d87c7e85d038b170e6",
+    "url": "/static/media/wipro_logo_color.90724b86.png"
   }
 ]);

@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.aeb1bd35.chunk.css",
-    "main.js": "/static/js/main.471ff364.chunk.js",
-    "main.js.map": "/static/js/main.471ff364.chunk.js.map",
+    "main.js": "/static/js/main.438bea33.chunk.js",
+    "main.js.map": "/static/js/main.438bea33.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ab7e2b3f.js",
     "runtime-main.js.map": "/static/js/runtime-main.ab7e2b3f.js.map",
-    "static/js/2.6cea04e7.chunk.js": "/static/js/2.6cea04e7.chunk.js",
-    "static/js/2.6cea04e7.chunk.js.map": "/static/js/2.6cea04e7.chunk.js.map",
+    "static/js/2.9996b85f.chunk.js": "/static/js/2.9996b85f.chunk.js",
+    "static/js/2.9996b85f.chunk.js.map": "/static/js/2.9996b85f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.021a25f16ae6fcd496d42bc1142f44bd.js": "/precache-manifest.021a25f16ae6fcd496d42bc1142f44bd.js",
+    "precache-manifest.7142227999cd75816160b14c8b742ec7.js": "/precache-manifest.7142227999cd75816160b14c8b742ec7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.aeb1bd35.chunk.css.map": "/static/css/main.aeb1bd35.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Debsphoto.png": "/static/media/Debsphoto.e25bc30d.png",
+    "static/media/SAPCPICERT.png": "/static/media/SAPCPICERT.a2237b06.png",
+    "static/media/SAPPOCERT.png": "/static/media/SAPPOCERT.6b43c7e8.png",
     "static/media/UU_LOGO.png": "/static/media/UU_LOGO.68baa4fa.png",
+    "static/media/accenture_square.png": "/static/media/accenture_square.148372f4.png",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.52e0714e.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.b6b12c7d.svg",
@@ -34,11 +37,13 @@
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.6d325fec.png",
+    "static/media/ibm_logo2.png": "/static/media/ibm_logo2.48c6088e.png",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.c350d799.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/mastech.png": "/static/media/mastech.e7a2179b.png",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.db6c1c0d.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.cd7077f7.png",
     "static/media/portfolio.gif": "/static/media/portfolio.6e7dc5ad.gif",
@@ -48,12 +53,13 @@
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.0288c5ec.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.b48e86c9.svg",
-    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg"
+    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg",
+    "static/media/wipro_logo_color.png": "/static/media/wipro_logo_color.90724b86.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ab7e2b3f.js",
-    "static/js/2.6cea04e7.chunk.js",
+    "static/js/2.9996b85f.chunk.js",
     "static/css/main.aeb1bd35.chunk.css",
-    "static/js/main.471ff364.chunk.js"
+    "static/js/main.438bea33.chunk.js"
   ]
 }
